@@ -33,6 +33,6 @@ I chaired the standards working group at the [Enterprise Ethereum Alliance](http
 
 Happily married with 2 awesome kids.  Blue belt in [Brazilian Jiu-Jitsu](https://www.wavebjj.co/) 🥋 which keeps me sane, I also enjoy running🦶, surfing 🏄 and SUP. Love reading sci-fi 📖 and psychology 🧠, and playing the dungeon master 🧙 in D&D.
 
-✉️  Feel free to DM me on Twitter.
+✉️  Feel free to DM me on Twitter or LinkedIn.
 
 [jekyll-organization]: https://github.com/jekyll

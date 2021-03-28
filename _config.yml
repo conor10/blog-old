@@ -20,13 +20,13 @@
 
 title: Conor Svensson
 # email: conor10 <at> gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Things on my mind
+description: >- 
+  Capturing thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://conorsvensson.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: conors10
 linkedin_username: conor10
-instagram_username: conors10
+# instagram_username: conors10
 # github_username:  conor10
 
 # Build settings
